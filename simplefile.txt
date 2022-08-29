@@ -1,5 +1,6 @@
-line Every
+line Ball
 line Good 
-line girl
+line Bat
+>>>>>>> alternative
 line Deserves
 line Food
